@@ -93,6 +93,11 @@ After successful payment, this page confirms you that your order is placed.
 
 # Authors
 
+
+### Chidananda Sahu:boy:
+>  [Linkedin](https://www.linkedin.com/in/chidananda-sahu-b4ab15159/)
+
+
 ### Nikhil Tiwari :boy:
 >  [Linkedin](https://www.linkedin.com/in/nikhil-tiwari-0b6980212/) 
     
@@ -101,9 +106,6 @@ After successful payment, this page confirms you that your order is placed.
 >  [Linkedin](https://www.linkedin.com/in/pvn1/)
 
 
-
-### Chidanand Sahu:boy:
->  [Linkedin](https://www.linkedin.com/in/chidananda-sahu-b4ab15159/)
 
 
 ### keshav mishra:boy:
